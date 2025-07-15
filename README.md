@@ -1,2 +1,2 @@
 # React
- Startign to learn React. 
+ Starting to learn React. 
